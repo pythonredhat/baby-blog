@@ -1,1 +1,3 @@
 *.pyc
+babyblog/babyblog/__pycache__
+babyblog/portfolio/__pycache__
